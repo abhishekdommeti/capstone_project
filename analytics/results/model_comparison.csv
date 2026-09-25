@@ -1,0 +1,6 @@
+,Classification (survived) | Accuracy,Classification (survived) | Precision,Classification (survived) | Recall,Classification (survived) | F1,Classification (survived) | AUC,Regression (fare) | MAE,Regression (fare) | RMSE,Regression (fare) | R²,Regression (fare) | Adj. R²
+Logistic Regression,0.809,0.7833,0.6912,0.7344,0.861,,,,
+Decision Tree,0.7978,0.7759,0.6618,0.7143,0.851,,,,
+Random Forest,0.8034,0.7619,0.7059,0.7328,0.8237,,,,
+Random Forest (tuned),0.8315,0.8276,0.7059,0.7619,0.8406,,,,
+Linear Regression (fare),,,,,,21.1398,41.7465,0.3468,0.3118
